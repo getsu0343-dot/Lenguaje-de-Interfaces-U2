@@ -12,6 +12,7 @@ Docente: José Luis Medina Jiménez
 
 Índice de las practicas 
 
+*  Practica 1
 * [PRACTICA 2. CAPTURA Y DESPLEGADO DE MENSAJE](<P2- Capturar y mostrar mensaje.asm>)
 * [PRACTICA 3. COMPARACIÓN Y PRUEBA](<P3-Comparación y Prueba.asm>)
 * [PRACTICA 4. SALTOS](<P4.- Saltos.asm>)
@@ -27,5 +28,5 @@ Docente: José Luis Medina Jiménez
 * [PRACTICA 11. OPERACIONES LOGICAS](<P11 - Operaciones Lógicas.asm>)
 * [PRACTICA 12. DESPLAZAMIENTO Y ROTACION](<P12 - Desplazamiento y Rotación.asm>)
 * [PRACTICA 13. STRING HEXADECIMAL](<P13 -String Hexadecimal.asm>)
-* [PRACTICA 14. CAPTURA Y ALMACENAMIENTO DE DATO NUMERICO.](<P14.asm>)
+* PRACTICA 14
 * [PRACTICA 15. MANIPULACIÓN DE ARCHIVO](<P15 - Manipulación de Archivo.asm>)
